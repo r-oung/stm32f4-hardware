@@ -1,4 +1,4 @@
-# Hardware
+# STM32F4 Hardware
 A collection of [EAGLE](http://eagle.autodesk.com/) PCB projects for the STM32F4 microcontroller.
 
 
