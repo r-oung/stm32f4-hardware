@@ -1,0 +1,3 @@
+[submodule "eagle-assets"]
+	path = eagle-assets
+	url = git@github.com:r-oung/eagle-assets.git
